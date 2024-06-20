@@ -243,8 +243,6 @@ span {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-
-    margin: 0 10px 0 10px;
     position: relative;
     z-index: 0;
 
